@@ -1,0 +1,6 @@
+[submodule "prototypes"]
+	path = prototypes
+	url = https://github.com/retraux-design/prototypes.git
+[submodule "kicad-libraries"]
+	path = kicad-libraries
+	url = https://github.com/retraux-design/kicad-libraries.git
